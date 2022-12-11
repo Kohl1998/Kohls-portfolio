@@ -10,6 +10,14 @@
     color: var(--font);
 }
 
+.navbar {
+    background-color: #FAF9F6;
+}
+
+a:hover {
+    color: red;
+}
+
 .jumbotron {
     background-color: var(--background);
     background-image: url("");
