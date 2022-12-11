@@ -36,6 +36,11 @@ a:hover {
     border:2px solid #FFAA33;
 }
 
+/* creates illusion for user to zoom into photo */
+.card-img-top {
+    cursor: zoom-in;
+}
+
 /* pushes cards away from edge of page */
 .card-spacing {
 margin: 0 22px;
