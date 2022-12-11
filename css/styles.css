@@ -12,6 +12,10 @@
 
 .jumbotron {
     background-color: var(--background);
+    background-image: url("");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
 }
 
 .card {
@@ -25,4 +29,11 @@
 
 .navbar-brand {
     font-size: var(--title);
+}
+
+#work-title, #Expectations {
+    color: blue;
+    text-decoration: underline;
+    text-align: left;
+    margin: 20px;
 }
