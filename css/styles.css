@@ -1,0 +1,28 @@
+:root {
+    --font: #000;
+    --title: 24px;
+    --border: 2px solid #89CFF0;
+    --list: #ff6600;
+    --background: #fff;
+}
+
+.nav-link {
+    color: var(--font);
+}
+
+.jumbotron {
+    background-color: var(--background);
+}
+
+.card {
+    border: var(--border);
+}
+
+.list {
+    color: var(--list);
+    list-style-type: circle;
+}
+
+.navbar-brand {
+    font-size: var(--title);
+}
