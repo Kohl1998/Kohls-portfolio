@@ -60,3 +60,7 @@ a:hover {
     color: blue;
     text-decoration: underline;
 }
+
+.about-section {
+    margin-top: 40px;
+}
