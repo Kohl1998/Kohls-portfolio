@@ -30,6 +30,10 @@ a:hover {
     border:2px solid #FFAA33;
 }
 
+.card-spacing {
+margin: 0 22px;
+}
+
 .list {
     color: #000;
     list-style-type: circle;
