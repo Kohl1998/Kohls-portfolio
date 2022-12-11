@@ -1,7 +1,6 @@
 :root {
     --font: #000;
     --title: 24px;
-    --border: 2px solid #89CFF0;
     --list: #ff6600;
     --background: #fff;
 }
@@ -10,10 +9,12 @@
     color: var(--font);
 }
 
+/* makes background white */
 .navbar {
     background-color: var(--background);
 }
 
+/* anchor changes to red when user hovers */
 a:hover {
     color: red;
 }
@@ -26,19 +27,16 @@ a:hover {
     background-position: center;
 }
 
-.jumbo-content {
-    color: var(--background);
-}
-
 .jumbo-content h1 {
     text-align: left;
 }
 
-
+/* places orange outline around cards */
 .card {
     border:2px solid #FFAA33;
 }
 
+/* pushes cards away from edge of page */
 .card-spacing {
 margin: 0 22px;
 }
@@ -54,10 +52,11 @@ margin: 0 22px;
     color: red;
 }
 
+/* places titles to the left */
 #work-title, #Expectations {
     color: blue;
     text-align: left;
-    margin: 20px;
+    margin: 10px;
 }
 
 #Expectations {
@@ -65,7 +64,7 @@ margin: 0 22px;
 }
 
 #work-title {
-    margin: 30px;
+    margin: 20px;
 }
 
 #about-title {
@@ -82,10 +81,13 @@ margin: 0 22px;
     background-color: #E2DFD2;
 }
 
+/* places backlinks in the center of the page */
 .row-links {
     display: flex;
     justify-content: center;
 }
+
+/* adds spacing between social anchors */
 .socials a {
     padding: 10px;
     text-decoration: underline;
@@ -96,6 +98,7 @@ margin: 0 22px;
     margin: 0;
 }
 
+/* color for last visited text in card */
 #card-color {
     color: red;
     font-size: 12px;
