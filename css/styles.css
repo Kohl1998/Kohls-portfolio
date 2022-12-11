@@ -27,7 +27,7 @@ a:hover {
 }
 
 .card {
-    border: var(--border);
+    border:2px solid #FFAA33;
 }
 
 .list {
