@@ -73,3 +73,11 @@ a:hover {
     display: flex;
     justify-content: center;
 }
+.socials a {
+    padding: 10px;
+    text-decoration: underline;
+}
+
+.socials {
+    margin: 0;
+}
