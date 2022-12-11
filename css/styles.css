@@ -11,7 +11,7 @@
 }
 
 .navbar {
-    background-color: #FAF9F6;
+    background-color: #fff;
 }
 
 a:hover {
@@ -31,7 +31,7 @@ a:hover {
 }
 
 .list {
-    color: var(--list);
+    color: #000;
     list-style-type: circle;
 }
 
