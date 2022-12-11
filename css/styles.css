@@ -81,3 +81,8 @@ a:hover {
 .socials {
     margin: 0;
 }
+
+#card-color {
+    color: red;
+    font-size: 12px;
+}
