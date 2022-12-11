@@ -46,3 +46,17 @@ a:hover {
     text-align: left;
     margin: 20px;
 }
+
+#Expectations {
+    margin: 30px;
+}
+
+#work-title {
+    margin: 30px;
+}
+
+#about-title {
+    margin: 0px 7.5px;
+    color: blue;
+    text-decoration: underline;
+}
