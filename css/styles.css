@@ -11,7 +11,7 @@
 }
 
 .navbar {
-    background-color: #FAF9F6;
+    background-color: var(--background);
 }
 
 a:hover {
@@ -25,6 +25,15 @@ a:hover {
     background-repeat: no-repeat;
     background-position: center;
 }
+
+.jumbo-content {
+    color: var(--background);
+}
+
+.jumbo-content h1 {
+    text-align: left;
+}
+
 
 .card {
     border:2px solid #FFAA33;
