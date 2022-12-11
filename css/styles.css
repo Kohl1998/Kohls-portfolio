@@ -38,6 +38,7 @@ a:hover {
 .navbar-brand {
     font-size: var(--title);
     font-size: 25px;
+    color: red;
 }
 
 #work-title, #Expectations {
