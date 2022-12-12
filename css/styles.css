@@ -37,6 +37,14 @@ a:hover {
     border:2px solid #FFAA33;
 }
 
+.card-title {
+    text-align: center;
+}
+
+.card-text {
+    text-align: center;
+}
+
 /* creates illusion for user to zoom into photo */
 .card-img-top {
     cursor: zoom-in;
