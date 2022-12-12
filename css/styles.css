@@ -92,10 +92,12 @@ margin: 0 22px;
     margin-top: 40px;
 }
 
-.contact-me {
+#contact-me {
     margin-top: 40px;
     background-color: #E2DFD2;
 }
+
+
 
 /* places backlinks in the center of the page */
 .row-links {
