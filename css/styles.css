@@ -27,9 +27,11 @@ a:hover {
     background-position: center;
 }
 
+/* for text to appear over jumbotron */
 .jumbo-content {
     text-align: left;
     color: #fff;
+    font-weight: bolder;
 }
 
 /* places orange outline around cards */
