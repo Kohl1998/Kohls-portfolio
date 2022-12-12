@@ -126,6 +126,11 @@ button {
     border: 2px solid blue;
 }
 
+/* to remove underline from button */ 
+#button {
+    text-decoration: none;
+}
+
 /* box shadow for button */ 
 button:hover {
     transition-duration: 0.7s;
