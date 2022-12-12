@@ -40,4 +40,4 @@ Lastly, my contact information can be accessed by clicking on the 'contact me' l
 
 ## Link
 
-https://kohl1998.github.io/Personal-Portfolio/
+https://kohl1998.github.io/bootstrap-portfolio/
