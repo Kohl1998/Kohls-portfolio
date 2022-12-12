@@ -119,3 +119,15 @@ margin: 0 22px;
     color: red;
     font-size: 12px;
 }
+
+button {
+    padding: 8px;
+    border-radius: 12px;
+    border: 2px solid blue;
+}
+
+/* box shadow for button */ 
+button:hover {
+    transition-duration: 0.7s;
+    box-shadow: 10px 5px 5px red;
+}
