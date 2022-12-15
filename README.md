@@ -19,7 +19,7 @@ Lastly, once I was done I pushed all the updates to my remote repository from my
 ## Usage
 
 ```md
-    ![alt text](starter/css/images/Deployed-Portfolio.svg)
+    ![alt text](images/bootstrap page 1.png)
     ```
 
 ## Credits
@@ -40,4 +40,4 @@ Lastly, my contact information can be accessed by clicking on the 'contact me' l
 
 ## Link
 
-https://kohl1998.github.io/Personal-Portfolio/
+https://kohl1998.github.io/bootstrap-portfolio/
