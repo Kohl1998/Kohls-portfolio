@@ -201,4 +201,8 @@ button:hover {
     .lead {
         font-size: 24px;
     }
+    .socials {
+        /* increase font size for social anchors */ 
+        font-size: 22px;
+    }
 }
