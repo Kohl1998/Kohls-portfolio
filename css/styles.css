@@ -138,3 +138,67 @@ button:hover {
     transition-duration: 0.7s;
     box-shadow: 10px 5px 5px red;
 }
+
+/* Media queries */ 
+
+/* For phone users e.g Iphone */ 
+@media only screen and (max-width: 480px ) {
+    /* increases font size for paaragraph */
+    .about-text {
+        font-size: 20px;
+    }
+    /* increases font size in skill section */
+    .list {
+        font-size: 18px;
+    }
+    /* increases font size within bootstrap cards */
+    .card-text {
+        font-size: 18px;
+    }
+    #work-title{
+        text-align: center;
+    }
+    #Expectations {
+        text-align: center;
+    }
+    #about-title {
+        text-align: center;
+        margin-bottom: 10px;
+    }
+}
+
+/* For tabelet users */ 
+@media only screen and (max-width: 780px ) {
+    /* increases font size for paaragraph */
+    .about-text {
+        font-size: 22px;
+    }
+    /* increases font size in skill section */
+    .list {
+        font-size: 24px;
+    }
+    /* increases font size within bootstrap cards */
+    .card-text {
+        /* Font size for text in about me section */ 
+        font-size: 24px;
+    }
+    /* aligns titles to middle */
+    #work-title{
+        text-align: center;
+    }
+    #Expectations {
+        text-align: center;
+    }
+    /* Create some spacing between title & content */
+    #about-title {
+        text-align: center;
+        margin-bottom: 10px;
+    }
+    #card-color {
+        font-size: 16px;
+    }
+    /* Increase font size for jumbotron text */
+    .lead {
+        font-size: 24px;
+    }
+}
