@@ -14,6 +14,11 @@
     background-color: var(--background);
 }
 
+.navbar-nav {
+    display: flex;
+    justify-content: flex-end;
+}
+
 /* anchor changes to red when user hovers */
 a:hover {
     color: red;
@@ -62,6 +67,7 @@ margin: 0 22px;
     list-style-type: circle;
 }
 
+/* Navbar title */ 
 .navbar-brand {
     font-size: var(--title);
     font-size: 25px;
@@ -75,6 +81,7 @@ margin: 0 22px;
     margin: 10px;
 }
 
+/* pushses titles away from edges */
 #Expectations {
     margin: 30px;
 }
