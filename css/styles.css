@@ -141,31 +141,6 @@ button:hover {
 
 /* Media queries */ 
 
-/* For phone users e.g Iphone */ 
-@media only screen and (max-width: 480px ) {
-    /* increases font size for paaragraph */
-    .about-text {
-        font-size: 20px;
-    }
-    /* increases font size in skill section */
-    .list {
-        font-size: 18px;
-    }
-    /* increases font size within bootstrap cards */
-    .card-text {
-        font-size: 18px;
-    }
-    #work-title{
-        text-align: center;
-    }
-    #Expectations {
-        text-align: center;
-    }
-    #about-title {
-        text-align: center;
-        margin-bottom: 10px;
-    }
-}
 
 /* For tabelet users */ 
 @media only screen and (max-width: 780px ) {
@@ -180,7 +155,7 @@ button:hover {
     /* increases font size within bootstrap cards */
     .card-text {
         /* Font size for text in about me section */ 
-        font-size: 24px;
+        font-size: 22px;
     }
     /* aligns titles to middle */
     #work-title{
@@ -204,5 +179,31 @@ button:hover {
     .socials {
         /* increase font size for social anchors */ 
         font-size: 22px;
+    }
+}
+
+/* For phone users e.g Iphone */ 
+@media only screen and (max-width: 480px ) {
+    /* increases font size for paragraph */
+    .about-text {
+        font-size: 20px;
+    }
+    /* increases font size in skill section */
+    .list {
+        font-size: 18px;
+    }
+    /* increases font size within bootstrap cards */
+    .card-text {
+        font-size: 18px;
+    }
+    #work-title{
+        text-align: center;
+    }
+    #Expectations {
+        text-align: center;
+    }
+    #about-title {
+        text-align: center;
+        margin-bottom: 10px;
     }
 }
