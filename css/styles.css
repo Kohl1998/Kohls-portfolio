@@ -74,7 +74,7 @@ margin: 0 22px;
 .navbar-brand {
     font-size: var(--title);
     font-size: 25px;
-    color: red;
+    color: #000;
 }
 
 /* places titles to the left */
