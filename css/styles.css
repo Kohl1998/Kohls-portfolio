@@ -44,7 +44,7 @@ a:hover {
 
 /* places orange outline around cards */
 .card {
-    border:2px solid #FFAA33;
+    border:2px solid #000;
 }
 
 .card-title {
