@@ -16,11 +16,9 @@ Afterwards, I used vscode which is an integrated development environment which a
 
 Lastly, once I was done I pushed all the updates to my remote repository from my local repo using commits, and once I was happy I deployed the changes to the live website.
 
-## Usage
+## Screenshot
 
-```md
-    ![alt text](images/bootstrap page 1.png)
-    ```
+[![bootstrap-portfolio.jpg](https://i.postimg.cc/28Hw2kjj/bootstrap-portfolio.jpg)](https://postimg.cc/vcVfmd6C)
 
 ## Credits
 
@@ -30,7 +28,7 @@ I used 'W3 Schools' - https://www.w3schools.com/css/default.asp
 
 ## License
 
-Please refer to the LICENSE in the repo.
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 ## Features
 
